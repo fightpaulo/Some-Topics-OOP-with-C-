@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\OOPWithCSharp\DelagatingResponsabilities\bin\Debug\DelagatingResponsabilities.exe.config
+C:\Users\paulo\source\repos\OOPWithCSharp\DelagatingResponsabilities\bin\Debug\DelagatingResponsabilities.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\DelagatingResponsabilities\bin\Debug\DelagatingResponsabilities.pdb
+C:\Users\paulo\source\repos\OOPWithCSharp\DelagatingResponsabilities\obj\Debug\DelagatingResponsabilities.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\DelagatingResponsabilities\obj\Debug\DelagatingResponsabilities.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\DelagatingResponsabilities\obj\Debug\DelagatingResponsabilities.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\DelagatingResponsabilities\obj\Debug\DelagatingResponsabilities.pdb

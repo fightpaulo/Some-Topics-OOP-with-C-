@@ -1,0 +1,6 @@
+C:\Users\paulo\source\repos\OOPWithCSharp\OverridingAndVirtualWords\bin\Debug\OverridingAndVirtualWords.exe.config
+C:\Users\paulo\source\repos\OOPWithCSharp\OverridingAndVirtualWords\bin\Debug\OverridingAndVirtualWords.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\OverridingAndVirtualWords\bin\Debug\OverridingAndVirtualWords.pdb
+C:\Users\paulo\source\repos\OOPWithCSharp\OverridingAndVirtualWords\obj\Debug\OverridingAndVirtualWords.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\OverridingAndVirtualWords\obj\Debug\OverridingAndVirtualWords.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\OverridingAndVirtualWords\obj\Debug\OverridingAndVirtualWords.pdb

@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\OOPWithCSharp\PolimorfismInheritanceExercise\bin\Debug\PolimorfismInheritanceExercise.exe.config
+C:\Users\paulo\source\repos\OOPWithCSharp\PolimorfismInheritanceExercise\bin\Debug\PolimorfismInheritanceExercise.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\PolimorfismInheritanceExercise\bin\Debug\PolimorfismInheritanceExercise.pdb
+C:\Users\paulo\source\repos\OOPWithCSharp\PolimorfismInheritanceExercise\obj\Debug\PolimorfismInheritanceExercise.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\PolimorfismInheritanceExercise\obj\Debug\PolimorfismInheritanceExercise.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\PolimorfismInheritanceExercise\obj\Debug\PolimorfismInheritanceExercise.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\PolimorfismInheritanceExercise\obj\Debug\PolimorfismInheritanceExercise.pdb

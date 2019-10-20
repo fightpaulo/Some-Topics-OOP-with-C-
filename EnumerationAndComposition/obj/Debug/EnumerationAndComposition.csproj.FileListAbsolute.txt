@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\OOPWithCSharp\EnumerationAndComposition\bin\Debug\EnumerationAndComposition.exe.config
+C:\Users\paulo\source\repos\OOPWithCSharp\EnumerationAndComposition\bin\Debug\EnumerationAndComposition.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\EnumerationAndComposition\bin\Debug\EnumerationAndComposition.pdb
+C:\Users\paulo\source\repos\OOPWithCSharp\EnumerationAndComposition\obj\Debug\EnumerationAndComposition.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\EnumerationAndComposition\obj\Debug\EnumerationAndComposition.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\EnumerationAndComposition\obj\Debug\EnumerationAndComposition.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\EnumerationAndComposition\obj\Debug\EnumerationAndComposition.pdb

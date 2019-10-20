@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\OOPWithCSharp\InheritanceAndPolimorfism\obj\Debug\InheritanceAndPolimorfism.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\InheritanceAndPolimorfism\obj\Debug\InheritanceAndPolimorfism.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\InheritanceAndPolimorfism\bin\Debug\InheritanceAndPolimorfism.exe.config
+C:\Users\paulo\source\repos\OOPWithCSharp\InheritanceAndPolimorfism\bin\Debug\InheritanceAndPolimorfism.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\InheritanceAndPolimorfism\bin\Debug\InheritanceAndPolimorfism.pdb
+C:\Users\paulo\source\repos\OOPWithCSharp\InheritanceAndPolimorfism\obj\Debug\InheritanceAndPolimorfism.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\InheritanceAndPolimorfism\obj\Debug\InheritanceAndPolimorfism.pdb

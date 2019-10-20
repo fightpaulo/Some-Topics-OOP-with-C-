@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\OOPWithCSharp\ClassAndMethodsAbstractExercise\bin\Debug\ClassAndMethodsAbstractExercise.exe.config
+C:\Users\paulo\source\repos\OOPWithCSharp\ClassAndMethodsAbstractExercise\bin\Debug\ClassAndMethodsAbstractExercise.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\ClassAndMethodsAbstractExercise\bin\Debug\ClassAndMethodsAbstractExercise.pdb
+C:\Users\paulo\source\repos\OOPWithCSharp\ClassAndMethodsAbstractExercise\obj\Debug\ClassAndMethodsAbstractExercise.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\ClassAndMethodsAbstractExercise\obj\Debug\ClassAndMethodsAbstractExercise.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\ClassAndMethodsAbstractExercise\obj\Debug\ClassAndMethodsAbstractExercise.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\ClassAndMethodsAbstractExercise\obj\Debug\ClassAndMethodsAbstractExercise.pdb

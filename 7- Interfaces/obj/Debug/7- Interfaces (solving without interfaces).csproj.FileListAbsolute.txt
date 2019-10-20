@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\OOPWithCSharp\7- Interfaces\bin\Debug\7- Interfaces.exe.config
+C:\Users\paulo\source\repos\OOPWithCSharp\7- Interfaces\bin\Debug\7- Interfaces.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\7- Interfaces\bin\Debug\7- Interfaces.pdb
+C:\Users\paulo\source\repos\OOPWithCSharp\7- Interfaces\obj\Debug\7- Interfaces (solving without interfaces).csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\7- Interfaces\obj\Debug\7- Interfaces (solving without interfaces).csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\7- Interfaces\obj\Debug\7- Interfaces.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\7- Interfaces\obj\Debug\7- Interfaces.pdb

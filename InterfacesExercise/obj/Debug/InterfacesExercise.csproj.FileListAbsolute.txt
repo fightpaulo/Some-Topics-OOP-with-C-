@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\OOPWithCSharp\InterfacesExercise\bin\Debug\InterfacesExercise.exe.config
+C:\Users\paulo\source\repos\OOPWithCSharp\InterfacesExercise\bin\Debug\InterfacesExercise.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\InterfacesExercise\bin\Debug\InterfacesExercise.pdb
+C:\Users\paulo\source\repos\OOPWithCSharp\InterfacesExercise\obj\Debug\InterfacesExercise.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\InterfacesExercise\obj\Debug\InterfacesExercise.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\InterfacesExercise\obj\Debug\InterfacesExercise.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\InterfacesExercise\obj\Debug\InterfacesExercise.pdb

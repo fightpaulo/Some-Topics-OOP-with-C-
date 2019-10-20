@@ -1,0 +1,7 @@
+C:\Users\paulo\source\repos\OOPWithCSharp\CustomExceptions\bin\Debug\CustomExceptions.exe.config
+C:\Users\paulo\source\repos\OOPWithCSharp\CustomExceptions\bin\Debug\CustomExceptions.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\CustomExceptions\bin\Debug\CustomExceptions.pdb
+C:\Users\paulo\source\repos\OOPWithCSharp\CustomExceptions\obj\Debug\6 - CustomExceptions.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\CustomExceptions\obj\Debug\6 - CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\OOPWithCSharp\CustomExceptions\obj\Debug\CustomExceptions.exe
+C:\Users\paulo\source\repos\OOPWithCSharp\CustomExceptions\obj\Debug\CustomExceptions.pdb
