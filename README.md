@@ -1,4 +1,5 @@
-# Estudos de conceitos de POO em C#
+## Estudos de conceitos de POO em C#
+Solution composta de vários projetos em Console para praticar os conceitos de POO
 
 ---
 ## Itens estudados
